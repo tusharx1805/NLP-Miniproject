@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+presidio-analyzer
+presidio-anonymizer
+spacy
+transformers
+torch
+pydantic
+pytest
+httpx
+python-multipart
